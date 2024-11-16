@@ -1,1 +1,2 @@
 # LaptopPricePredictorModel
+Built a machine learning model to predict laptop prices based on features such as brand and specifications. The project involved comprehensive data preprocessing and testing of various algorithms to maximize accuracy. A robust machine learning pipeline was designed and implemented using ColumnTransformer for efficient feature encoding and RandomForestRegressor for price prediction, achieving an R² score of 0.89 and a Mean Absolute Error (MAE) of 0.16, reflecting the model’s strong predictive performance.
